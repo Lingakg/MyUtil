@@ -6,9 +6,9 @@ import java.util.regex.Pattern;
 /**
  * 递归读取某个目录下的所有文件
  *
- * @author 超越
- * @Date 2016年12月5日,下午4:04:59
- * @motto 人在一起叫聚会，心在一起叫团队
+ * @author Lingakg
+ * @Date 2018年08月22日,下午13:20:00
+ * @motto 用代码行数来评估程序的开发进度，就好比是拿重量来评估一个飞机的建造进度。
  * @Version 1.0
  */
 public class ReadFile {
